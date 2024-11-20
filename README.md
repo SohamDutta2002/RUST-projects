@@ -1,3 +1,3 @@
 # RUST-projects
-RUST projects
-ru
+RUST project
+ideas
