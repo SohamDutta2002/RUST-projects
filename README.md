@@ -2,4 +2,4 @@
 RUST project
 ideas/
 
-* Rust
+* Rust c
